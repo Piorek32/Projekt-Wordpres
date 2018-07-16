@@ -1,12 +1,17 @@
--Projekt realizowany podczas warsztatów CoresLab.
-Wykorzystane Technologie:
+Projekt zrealizowany na warsztatach CodersLab, podczas których wykonałem
+loyaut strony internetowej typu "One page site". Celem w/w warsztatu było utrwalenie 
+zdobytej podczas kursu wiedzy.
 
--Html
+
+
+Wykorzystane technologie: 
+
+-Html 
 
 -Css 
 
--JavaScript
+-JavaScript. 
 
-Do automatyzacji pracy został wykorzystanyn Gulp i Sass.
+Do automatyzacji pracy został wykorzystany Gulp i Sass.
 
 ![Screenshot](zdjecie5.jpg)
